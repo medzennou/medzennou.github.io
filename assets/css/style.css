@@ -76,14 +76,14 @@
 }
 
 .angellist:hover {
-  background-color: grey;
+  background-color: rgb(112, 213, 231);
 }
 
 .github:hover {
   background-color: black;
 }
 .twitter:hover {
-  background-color: black;
+  background-color: rgb(62, 112, 250);
 }
 /* Buttons - Read Me, Contact Us */
 
