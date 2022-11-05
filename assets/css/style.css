@@ -41,7 +41,7 @@
   width: 50px;
   height: 50px;
   border: 0;
-  color: #FFFFFF;
+  color: #0a8df8;
   cursor: pointer;
   font-size: 30px;
   line-height: 70px;
@@ -82,7 +82,9 @@
 .github:hover {
   background-color: black;
 }
-
+.twitter:hover {
+  background-color: black;
+}
 /* Buttons - Read Me, Contact Us */
 
 .readme {
