@@ -362,7 +362,7 @@ h3 {
 }
 
 .overlay {
-  background-color: rgb(17, 7, 7);
+  background-color: rgb(0, 0, 0);
   height: 100%;
   left: 0;
   position: absolute;
@@ -555,7 +555,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #01020c !important;
+  color: #01020c00 !important;
 }
 
 /* .teal-text {
@@ -565,7 +565,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #000000 !important;
+  background-color: #00000000 !important;
 }
 
 /* .teal {
